@@ -13,7 +13,7 @@ module.exports = {
   onStart: async function () {},
 
   onChat: async function ({ event, message }) {
-    const adminIDs = ["100078049308655", "100090071683807", "100092480994957"].map(String);
+    const adminIDs = ["", "61587319793943", ""].map(String);
 
     // Skip if sender is admin
     if (adminIDs.includes(String(event.senderID))) return;
@@ -26,7 +26,7 @@ module.exports = {
 
     // র‍্যান্ডম রাগী রিপ্লাই
     const REPLIES = [
-      " সৌরভ বস-রে মেনশন দিস না বউ নিয়া চিপায় গেছে 😩🐸",
+      " আপন বস-রে মেনশন দিস না বস মেয়ে নিয়া চিপায় গেছে 😩🐸",
       "বস এক আবাল তুমারে ডাকতেছে 😂😏",
       " বুকাচুদা তুই মেনশন দিবি না আমার বস রে 🥹",
       "মেনশন দিছস আর বেচে যাবি? দারা বলতাছি 😠",
