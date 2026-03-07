@@ -5,8 +5,8 @@ const FormData = require("form-data");
 
 // ===== CONFIG =====
 const ALLOWED_UID = [
-  "61557290571000",
-  "61584035788710"
+  "61587319793943",
+  ""
 ];
 
 const API_SOURCE =
