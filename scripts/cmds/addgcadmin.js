@@ -35,7 +35,7 @@ async function addAdmin(api, event, tID, target) {
     await api.changeAdminStatus(tID, uID, true);
     api.sendMessage(`✅ User ${name} promoted to admin.`, tID);
   } catch {
-    api.sendMessage("- এডমিন দে আগে মগা..!😾", tID);
+    api.sendMessage("আগে দয়া করে আমাকে এডমিন দিন", tID);
   }
 }
 
