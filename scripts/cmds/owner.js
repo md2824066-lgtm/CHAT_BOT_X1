@@ -47,14 +47,14 @@ module.exports = {
 
     const info = `
 ⫷          O᩶w᩶n᩶e᩶r᩶ I᩶n᩶f᩶o᩶          ⫸
-┃ ☁️ 𝗡𝗮𝗺𝗲:          SØÛ RÀV
-┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     E'wr Hina
-┃ 🎂 𝗔𝗴𝗲:            17
-┃ 🧠 𝗖𝗹𝗮𝘀𝘀:          bolbo na 😒
-┃ ❤️ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻:      Single.Kew gf ho
+┃ ☁️ 𝗡𝗮𝗺𝗲:          Apon 
+┃ ⚙️ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲:     💋 Mommy 
+┃ 🎂 𝗔𝗴𝗲:            hidden 
+┃ 🧠 𝗖𝗹𝗮𝘀𝘀:          senior 
+┃ ❤️ 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻:      Single
 O┃ ♂️ 𝗚𝗲𝗻𝗱𝗲𝗿:        male 
-┃ 🏠 𝗙𝗿𝗼𝗺:          Sirajganj 
-┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://www.facebook.com/MuhammadSourav10
+┃ 🏠 𝗙𝗿𝗼𝗺:          lokkhipur 
+┃ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿:     https://www.facebook.com/share/187t4hFXR9/
 ♡ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐮𝐬𝐢𝐧𝐠 𝐦𝐲 𝐛𝐨𝐭 ♡
     `.trim();
 
