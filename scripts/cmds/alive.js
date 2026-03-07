@@ -46,8 +46,8 @@ async function sendAlive(message) {
 ───────────────
 ✨ SPIDEY BOT ✨
 
-Bot is alive and kicking!
-Made by: Eren Yeager
+Bot is alive !
+customized by : Apon
 Ready to serve you.
 
 ───────────────`,
