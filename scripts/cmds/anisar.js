@@ -80,7 +80,7 @@ module.exports = {
     } catch (error) {
       console.error(error);
       api.sendMessage(
-        "🥹error, contact MahMUD",
+        "🥹error, contact Apon",
         event.threadID,
         event.messageID
       );
